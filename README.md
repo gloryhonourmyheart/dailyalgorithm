@@ -1,1 +1,2 @@
-# Daily Algorithm
+# dailyalgorithm
+My daily algorithm challenges
